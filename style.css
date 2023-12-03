@@ -420,4 +420,5 @@ input, textarea {
     margin-bottom: 10px;
     box-sizing: border-box;
     background-color: var(--bg-color);
+	border: 1px solid var(--text-color);
 }
