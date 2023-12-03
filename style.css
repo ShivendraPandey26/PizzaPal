@@ -422,4 +422,5 @@ textarea {
   box-sizing: border-box;
   background-color: var(--bg-color);
   border: 1px solid var(--text-color);
+  color: #fff;
 }
